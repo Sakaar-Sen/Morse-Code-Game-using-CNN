@@ -12,7 +12,7 @@ Note: All images drawn were correct except the last one to showcase how the game
 
 https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/709069b3-c3e8-490b-bb29-5958f6da6a7a
 
-# Overview of the layers used
+# Overview of the layers used in the Neural Network
 - Convolutional Layer: The first convolutional layer has 64 filters with a kernel size of (3, 3) and uses the ReLU activation function. This layer processes the input images, extracting the imp features.
 
 - Max Pooling Layer: A max-pooling layer with a pool size of (2, 2) follows the first convolutional layer. Primary purpose of this layer is to reduce the spatial dimensions of the data and help in capturing important patterns.
