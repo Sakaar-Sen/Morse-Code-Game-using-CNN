@@ -8,7 +8,7 @@ A game which aims to test your morse code skills. Built using pygame and tensorf
 - Game runs until player clicks on quit.
   
 # Demo Video
-Note: All images drawn were correct except the last one to showcase how the game reacts in each case.
+Note: All images drawn were correct except the last one to showcase how the game reacts in each case. Morse code chart is also provided for reference.
 
 https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/e9cb7f75-ade2-41c5-ad49-bfd06e9ad824
 
