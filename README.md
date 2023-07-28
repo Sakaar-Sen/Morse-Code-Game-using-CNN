@@ -39,7 +39,7 @@ The model is compiled with the Adam optimizer and uses categorical cross-entropy
 ### Suggestions to improve im too lazy to implement
 - Better preprocessing of the saved image from pygame to match the ones in the training dataset for better results.
 - A friendlier way to play the game aka UI/System that doesnt require terminal + pygame being opened together. An all in one interface.
-  
+- High Scores 
 
 # Contributing
 Contributions to improve the model's performance, add new features, or fix any issues are welcomed. 
