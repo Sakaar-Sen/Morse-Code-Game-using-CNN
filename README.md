@@ -31,7 +31,6 @@ The model is compiled with the Adam optimizer and uses categorical cross-entropy
 1. Install the dependencies
    ```
    pip install tensorflow opencv-python numpy pygame
-     
 2. Download the dataset from [kaggle](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 3. Preprocess data, train and save the model by running cells in Alphabet Detection Notebook.
 4. Run MorseCodeGame to start playing!
