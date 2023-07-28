@@ -36,6 +36,8 @@ The model is compiled with the Adam optimizer and uses categorical cross-entropy
 3. Preprocess data, train and save the model by running cells in Alphabet Detection Notebook.
 4. Run MorseCodeGame to start playing!
 
+### Suggestions to improve im too lazy to implement
+- Better preprocessing of the image data to match those in the training dataset.
 
 # Contributing
 Contributions to improve the model's performance, add new features, or fix any issues are welcomed. 
