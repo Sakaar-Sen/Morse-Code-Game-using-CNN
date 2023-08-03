@@ -10,7 +10,7 @@ A game which aims to test your morse code skills. Built using pygame and tensorf
 # Demo Video
 Note: All images drawn were correct except the last one to showcase how the game reacts in each case. Morse code chart is also provided for reference.
 
-(https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/a57fb6af-110d-40c1-802b-baa70493ad67)
+https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/a57fb6af-110d-40c1-802b-baa70493ad67
 
 
 # Overview of the layers used in the Neural Network
