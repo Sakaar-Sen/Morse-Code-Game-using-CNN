@@ -10,7 +10,8 @@ A game which aims to test your morse code skills. Built using pygame and tensorf
 # Demo Video
 Note: All images drawn were correct except the last one to showcase how the game reacts in each case. Morse code chart is also provided for reference.
 
-https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/e9cb7f75-ade2-41c5-ad49-bfd06e9ad824
+(https://github.com/Sakaar-Sen/Morse-Code-Game-using-CNN/assets/52592149/a57fb6af-110d-40c1-802b-baa70493ad67)
+
 
 # Overview of the layers used in the Neural Network
 - Convolutional Layer: The first convolutional layer has 64 filters with a kernel size of (3, 3) and uses the ReLU activation function. This layer processes the input images, extracting the imp features.
